@@ -1,0 +1,7 @@
+start
+input degree
+check if degree >= 50 then
+print "PASS"
+else print "FAIL"
+end  if 
+end
